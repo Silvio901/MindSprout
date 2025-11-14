@@ -1,4 +1,4 @@
-# MindSprout PRO – Matemática
+# MindSprout – Matemática
 
 **Aprenda matemática jogando!**  
 Um app estilo **Duolingo**, mas **100% focado em matemática** — com **corações, streak, quiz com áudio, XP, moedas, leaderboard e login com Google**.
@@ -50,41 +50,7 @@ Um app estilo **Duolingo**, mas **100% focado em matemática** — com **coraç�
 
 ## ESTRUTURA DO PROJETO
 
-MindSproutMath/
-├── app/
-│   ├── _layout.tsx
-│   ├── (auth)/
-│   │   ├── _layout.tsx
-│   │   └── login.tsx
-│   └── (tabs)/
-│       ├── _layout.tsx
-│       ├── index.tsx         → Home
-│       ├── two.tsx           → Quiz de Matemática
-│       ├── rewards.tsx       → Conquistas
-│       ├── profile.tsx       → Perfil
-│       └── leaderboard.tsx   → Ranking
-├── assets/
-│   ├── logo.png
-│   ├── audio/
-│   │   ├── correct.mp3
-│   │   ├── wrong.mp3
-│   │   └── math1.mp3
-│   └── avatar/
-│       ├── seed.png
-│       ├── sprout.png
-│       └── tree.png
-├── src/
-│   ├── context/
-│   │   └── UserContext.tsx
-│   ├── services/
-│   │   ├── firebase.ts
-│   │   └── quiz.ts
-│   └── components/
-├── .gitignore
-├── app.json
-├── package.json
-├── tsconfig.json
-└── README.txt
+<img width="449" height="685" alt="image" src="https://github.com/user-attachments/assets/f9440669-7be0-4155-a8df-0fababddd8e2" />
 
 ---
 
@@ -201,10 +167,10 @@ const firebaseConfig = {
 *Desenvolvedor Desenvolvedor Mobile e Full Stack Júnior*
 
 **Natalia Saraiva Cortez**
-
+**
 
 **Alex Leandro Lucacheuski**
-
+**
 ---
 
 ## LICENÇA
@@ -213,10 +179,11 @@ const firebaseConfig = {
 
 ---
 
-**MindSprout PRO – Matemática nunca foi tão divertida!**
+**MindSprout – Matemática nunca foi tão divertida!**
 
 ---
 
 **Pronto para publicar?**  
 Rode `npx expo export` → envie para a Play Store!
+
 
