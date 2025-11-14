@@ -195,7 +195,7 @@ const firebaseConfig = {
 
 ---
 
-## AUTOR
+## AUTORES
 
 **Silvio Domingos da Costa Junior**  
 *Desenvolvedor Desenvolvedor Mobile e Full Stack Júnior*
@@ -219,3 +219,4 @@ const firebaseConfig = {
 
 **Pronto para publicar?**  
 Rode `npx expo export` → envie para a Play Store!
+
